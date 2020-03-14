@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    margin-top: 20px;
+    background-color: blanchedalmond;
+}
+.inffotos {
+    margin-top: 40px;
+}
+.imagem {
+    background-color:beige;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.perfil {
+    background-color: burlywood;
+    margin-left: 200px;
+    margin-right: 200px;
+}
